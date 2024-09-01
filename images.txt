@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 alpinelinux/gitlab:17.2
-wodby/gitlab:latest
+bitnami/gitlab-runner:latest
