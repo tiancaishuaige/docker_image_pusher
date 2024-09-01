@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 alpinelinux/gitlab:17.2
 bitnami/gitlab-runner:latest
+alpinelinux/alpine-docker-gitlab:13.12-stable
